@@ -15,3 +15,6 @@ export default function GuessList(props) {
         </ul>
     );
 };
+
+//old room 
+// guesses needs to be passed down to actually be tested 
